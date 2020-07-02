@@ -24,7 +24,7 @@ public class LoginTest extends TestBase {
 	public void CheckTitle()
 	{
 		title=oo.verifyTitle();
-		System.out.println("Title:"+title);
+		System.out.println("Title is:"+title);
 	}
 	@Test
 	public void Loginn()
